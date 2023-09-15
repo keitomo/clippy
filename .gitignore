@@ -1,0 +1,9 @@
+Lib/
+Scripts/
+__pycache__/
+build/
+dist/
+VideoTmp/
+*.zip
+pyvenv.cfg
+*.exe
